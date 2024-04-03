@@ -1,0 +1,23 @@
+Cashier 1
+O X
+Cashier 2
+X X X
+Cashier 3
+X X X X X
+
+Cashier 1 names
+vtt
+null
+
+Cashier 2 names
+null
+null
+null
+
+Cashier 3 names
+null
+null
+null
+null
+null
+
