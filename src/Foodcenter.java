@@ -1,5 +1,6 @@
 import java.util.*;
 import java.io.*;
+// Add a comment
 
 public class Foodcenter { //create food class
     private static int burger_Stock = 40;
